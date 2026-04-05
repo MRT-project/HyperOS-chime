@@ -1,7 +1,7 @@
 {
     "version": "OS3.0.6.0.WNRMIXM",
     "versionCode": 1773234115,
-    "size" : "4.8Gb",
+    "size": "4.8Gb",
     "md5": "cae65fd572ab8c6dcda6126318548c29",
     "download_url": "https://sourceforge.net/projects/mrt-mirror/files/android12-settings-lib-master.zip/download",
     "changelog": "- Perbaikan bug\n- Peningkatan performa"
